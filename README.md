@@ -1,7 +1,7 @@
 ![log](https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-7016684.gif)
 <h1 align="center">Hi 👋, I'm Vanshika kushwaha</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966
+https://www.google.com/imgres?q=animated%20coding%20gif%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Friyabansal1036%2Friyabansal1036&docid=LtPHSmQfo-svbM&tbnid=hG9Wqf67TP1hgM&vet=12ahUKEwiMsvbb_8OPAxXmX2wGHfjmED8QM3oECBoQAA..i&w=640&h=640&hcb=2&ved=2ahUKEwiMsvbb_8OPAxXmX2wGHfjmED8QM3oECBoQAA
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika234&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika234" /> </p>
 
