@@ -1,7 +1,6 @@
 ![log](https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-7016684.gif)
 <h1 align="center">Hi 👋, I'm Vanshika kushwaha</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-https://www.google.com/imgres?q=animated%20coding%20gif%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Friyabansal1036%2Friyabansal1036&docid=LtPHSmQfo-svbM&tbnid=hG9Wqf67TP1hgM&vet=12ahUKEwiMsvbb_8OPAxXmX2wGHfjmED8QM3oECBoQAA..i&w=640&h=640&hcb=2&ved=2ahUKEwiMsvbb_8OPAxXmX2wGHfjmED8QM3oECBoQAA
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshika234&label=Profile%20views&color=0e75b6&style=flat" alt="vanshika234" /> </p>
 
