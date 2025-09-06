@@ -1,10 +1,37 @@
-<h1 align="center">Hi 👋, I'm Vanshika kushwaha</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
 </p>
+<h1 align="center">Hi 👋, I'm Vanshika kushwaha</h1>
 
 <h3 align="center">A passionate FullStack Developer from India</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Vanshika234&label=Profile%20views&color=0e75b6&style=flat" alt="Vanshika234" /> 
+</p>
+
+<h5 align="left">
+I'm an aspiring software engineer specializing in Artificial Intelligence and full-stack development. Bachelor's in Computer Science and Engineering (AI specialization), 
+I have built projects in AI, machine learning, and web technologies, including applications for 
+facial expression-based music recommendation and CNN-driven image analysis. 
+I’m passionate about combining AI with real-world problem solving to create impactful solutions.
+</h5>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/> 
+
+<br>
+<h3 align="left">What I Do:</h3>
+<p align="left"><b>- Web Development: </b>From building dynamic user interfaces to creating efficient backend systems, I love crafting seamless web applications.</p>
+
+<h3 align="left">Current Projects:</h3>
+<p><b>- AI Trip Planner: </b>Building interactive web applications using React, Tailwind CSS, and APIs to create smooth user experiences.</p>
+
+<h3 align="left">Tech Stack:</h3>
+<p>-<b> Frontend: </b>HTML, CSS, JavaScript,React, Tailwind CSS </p>
+<p>-<b> Backend: </b>Node.js, Express</p>
+<p>-<b> Databases: </b>MongoDB, Oracle</p>
+<p>-<b> Tools: </b>VS Code, Git, GitHub</p>
+
+
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
