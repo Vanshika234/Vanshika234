@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
 </p>
 <h1 align="center">Hi 👋, I'm Vanshika kushwaha</h1>
+<h1 align="center">A passionate FullStack Developer from India</h1>
 
-<h3 align="center">A passionate FullStack Developer from India</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Vanshika234&label=Profile%20views&color=0e75b6&style=flat" alt="Vanshika234" /> 
 </p>
@@ -18,7 +18,7 @@ I’m passionate about combining AI with real-world problem solving to create im
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/> 
 
 <br>
-<h3 align="left">What I Do:</h3>
+<h3 align="left">I Do:</h3>
 <p align="left"><b>- Web Development: </b>From building dynamic user interfaces to creating efficient backend systems, I love crafting seamless web applications.</p>
 
 <h3 align="left">Current Projects:</h3>
