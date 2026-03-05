@@ -22,7 +22,7 @@ I’m passionate about combining AI with real-world problem solving to create im
 <p align="left"><b>- Web Development: </b>From building dynamic user interfaces to creating efficient backend systems, I love crafting seamless web applications.</p>
 
 <h3 align="left">Current Projects:</h3>
-<p><b>- AI Trip Planner: </b>Building interactive web applications using React, Tailwind CSS, and APIs to create smooth user experiences.</p>
+<p><b>- 🧠 Intelligent Recipe Generator : </b>Intelligent Recipe Generator is a full-stack web application that generates recipes based on available ingredients. Users can input ingredients manually or upload images, where OCR extracts the text. The system then suggests suitable recipes and stores history for future reference. It is built using React, FastAPI, and SQLite, with a user-friendly interface and authentication system.</p>
 
 <h3 align="left">Tech Stack:</h3>
 <p>-<b> Frontend: </b>HTML, CSS, JavaScript,React, Tailwind CSS </p>
